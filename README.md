@@ -1,2 +1,2 @@
 # Recaptcha-V3-Bypass
-Bypass any Google RecaptchV3
+Bypass any Google RecaptchaV3
